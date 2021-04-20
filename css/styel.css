@@ -212,7 +212,7 @@ img{ vertical-align: middle;}
     font-size: 20px;
     border-left: 3px solid green;
     padding: 25px 8px 10px 40px;
-    background:#e9e8e8b7 url("../images/quote.png") no-repeat ;
+    background:#e9e8e8b7 url("images/quote.png") no-repeat ;
     background-size: 38px 50px;
     background-position: 4px 6px;
 }
