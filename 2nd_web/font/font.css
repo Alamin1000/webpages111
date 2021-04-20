@@ -1,0 +1,13 @@
+/*fonts---
+ *Oswald
+ *DancingScript
+ */
+
+@font-face {
+    font-family: 'Oswald';
+    src: url("../font/Oswald-VariableFont_wght.ttf") format("truetype");
+}
+@font-face {
+    font-family: "DancingScript";
+    src: url("../font/DancingScript-Regular.ttf") format("truetype");
+}
